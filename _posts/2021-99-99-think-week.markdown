@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Think Week"
 date:   2021-10-23 16:43:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 
@@ -19,9 +19,9 @@ Minimalism has been on my radar for a while. At first just as an interesting lif
 
 I finished [Goodbye, Things: The New Japanese Minimalism][goodbye-things], read a bunch of posts on [becomingminimalist][becomingminimalist], [zenhabits][zenhabits], [mnmlist][mnmlist], and [Medium][medium-minimalism]. 
 
-I also experienced minimalism in action. At least I believe so. In Goodbye, Things, Fumio Sasaki uses travel as an example of the freeing feeling that de-clutting and minimizing can bring. Re-reading that passage resonates with me in a way that is hard to describe&mdash;it is so spot on: how I pack all sorts of items in fear that I may need them. Yet I feel nervous that I have forgotten something as I walk out the door. And finally, how I realize none of that matters and I will be okay. And the freedom this feeling gives me. 
+I also experienced minimalism in action. At least I believe so. In [Goodbye, Things][goodbye-things], Fumio Sasaki uses travel as an example of the freeing feeling that de-cluttering and minimizing can bring. Re-reading that passage resonates with me in a way that is hard to describe&mdash;it is so spot on: how I pack all sorts of items in fear that I may need them. Yet I feel nervous that I have forgotten something as I walk out the door. And finally, how I realize none of that matters and I will be okay. And the freedom this feeling gives me. 
 
-_"You set down your bag and step out for a walk around the neighborhood. You feel light on your feet, like you could keep walking forever. You have the freedom to go wherever you want. Time is on your side..."_ - Goodbye, Things by Fumio Sasaki
+_"You set down your bag and step out for a walk around the neighborhood. You feel light on your feet, like you could keep walking forever. You have the freedom to go wherever you want. Time is on your side..."_ - [Goodbye, Things by Fumio Sasaki][goodbye-things]
 
 ## Why I'm Interested
 
@@ -48,6 +48,6 @@ A few weeks ago I removed a couple of drawers from my apartment and went through
 
 So here is my plan:
 
-1. I have booked one weekend for myself to focus entirely on decluttering. My hope is that this initial shock to the system will show me some of the benefits of minimalism and guide me forward. My biggest concern with this is that I know getting rid of things is a process and will take time. Which is why I'll use step two:
+1. I have booked one weekend for myself to focus entirely on de-cluttering. My hope is that this initial shock to the system will show me some of the benefits of minimalism and guide me forward. My biggest concern with this is that I know getting rid of things is a process and will take time. Which is why I'll use step two:
 2. I'll use a strategy I've seen referenced several times in several different versions. The basic idea is that getting rid of things is difficult. We find something in the back of our closet and suddenly we remember why we bought it or we reminisce about good times. I have already experienced this first hand. So to make the process more tolerable we can introduce a state between _owning_ and _not owning_. A timeout where the things can wait until we are ready to part ways. The more extreme version of this strategy is to pack everything up in boxes and slowly take out what I need over the next few weeks. Everything that remains in the boxes is stuff I don't need. A more relaxed version is to use the boxes for "maybe" items. I can then go through my belongings and sort them in three categories: throw away, maybe, and keep. In both versions I can come back to the boxes some time in the future and getting rid of what is still inside should be easier (I have not tried so have no evidence yet).
 3. I'm picking up [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondō](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up) from the library when I come home. I've head it has some tips and tricks.
