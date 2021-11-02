@@ -51,3 +51,41 @@ So here is my plan:
 1. I have booked one weekend for myself to focus entirely on de-cluttering. My hope is that this initial shock to the system will show me some of the benefits of minimalism and guide me forward. My biggest concern with this is that I know getting rid of things is difficult. It is a process and will take time. Which is why I'll use step two:
 2. I'll use a strategy I've seen referenced several times in several different versions. The basic idea is to make letting go less painful by doing it in stages. When we de-clutter we will inevitably find something in the back of our closet that lights up memories. Suddenly we remember why we bought it. Or we reminisce about good old times. I have already experienced this first hand. So to make the process more tolerable we can introduce a state between _owning_ and _not owning_. A timeout where the things can wait until we are ready to part ways. The more extreme version of this strategy is to pack everything up in boxes and slowly take out what I need over the next few weeks. Everything that remains in the boxes is stuff I don't need. A more relaxed version is to use the boxes for "maybe" items. I can then go through my belongings and sort them in three categories: remove, maybe, and keep. In both versions I can come back to the boxes some time in the future and getting rid of what is still inside should be easier as I now have clear proof that I don't need the items (at least that is the theory).
 3. I'm picking up [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondō](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up) from the library when I come home. I've head it has some tips and tricks.
+
+# Curiosity
+
+During my two think weeks I read a lot of stuff that was not directly related to any of the topics I had set out to study. I read about artificial intelligence, [blockchain](http://karpathy.github.io/2021/06/21/blockchain/), [biohacking](http://karpathy.github.io/2020/06/11/biohacking-lite/), [github pages](https://pages.github.com/), [a climbing trip report from Kyrgyzstan](https://docs.google.com/document/d/1o2MOKEik3qubS1Sd4k5aWFf3dejFQHTMjYe-seAg1WI) (related [video](https://www.youtube.com/watch?v=UVOGl7wtRz4)),... I also though about a whole bunch of small projects that I would love to do.
+
+But then I felt bad. I felt bad that I was using (wasting) my time on topics that were not in the categories I set out to explore. I only function when everything fits into the bigger picture. If I'm working on a project or reading about something, I need to be able to explain myself why. What category does this activity fit into. If I'm running I'm doing it for my health, fitness, and often to clear my head. If I'm ... TODO
+
+Here I had all these different categories that did not fit into my bigger picture. I'm not going to write or create videos about blockchain. And I'm not going to develop anything on it either. So why bother? Because something in me wanted to. And that something is _curiosity_.
+
+As I though more about my conflicting feelings I realized what was driving me. I was curious about artificial intelligence and blockchain, even if I knew that I would not directly use that knowledge to anything specific. I now had my category. I could put smaller topics and projects under curiosity and I would silence the voice telling me I was wasting my time. My next question: was curiosity worth pursuing?
+
+Turns out the answer is yes. Big yes.
+
+## The Benefits of Curiosity
+
+The series [Why Curiosity Matters](https://hbr.org/2018/09/the-business-case-for-curiosity) explains a lot of the benefits of curiosity. Although it is focused on curiosity in the workplace I found it interesting. When we are curious we are less prone to confirmation bias and stereotyping, we are more creative and more likely to make constructive suggestions. Curiosity reduces group conflict and makes for more open communication where people share and listen.
+
+These are just some of the benefits mentioned in the curiosity series. But as I started thinking about curiosity I quickly realized that it was everywhere. 
+
+I have been practicing curiosity for years with the books I read. The topics are all over the place and I never feel any guilt picking a book unrelated to anything I do. In fact, I feel good about that. Excited. And I have anecdotal evidence that it is indeed beneficial. Books inspire, motivate, challenge, and inform me (and much more). 
+
+[The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way) describes a method called The Artist Date that creatives can use to help fill up their creative well. It is a weekly block of time set aside to do whatever we want, no strings attached. If this isn't a call for curiosity I don't know what is. Simply set time aside to be curious and soon you will see your creativity improve (and as we have seen, this theory is backed by science). 
+
+I was also reminded of a podcast I recently watched (I guess you watch a podcast if it has video also, or?) that had a short section about curiosity. This view was a much broader appreciation for curiosity. Not just as a tool to boost creativity or make office workers more profitable for corporations. Curiosity is more than that. So much so that I feel almost embarrassed to have questioned its worthiness. Curiosity is what makes life interesting. Makes it worth living even. There are so many wonders in this word. So many things to be awed by. But to experience any of this we need to be open and prepared to receive it. We need to give ourselves permission to ask _why_. 
+
+TODO: find podcast mentioned here and see if I have the correct interpretation of it
+
+
+## How to spark my curiosity
+
+My issue with curiosity wasn't so much that I wasn't curious. It was that I did not feel good about leaning into this curiosity. I know now better. But knowledge is not enough. When I come home to a busy everyday life I will most likely kick curiosity to the curb again and not think twice about it.
+
+So here are some things I will focus on:
+
+- Stay curious with the books I read. This is an area I'm doing well in. I read whatever I find interesting and have no issue with that.
+- Be curious online. Whenever I find something interesting i often save it to my [Pocket](https://getpocket.com/). And that is one piece of the puzzle. But I also need to give myself permission to browser through the Pocket list and read the things I save.
+- Be curious at work. Ask questions. Sometimes I'm curious at work but at times I also put my head down and only work on what is in front of me. Being focused is good but I also want to stay curious as it will benefit me in the long run.
+- Set time aside for simple curiosity. I did this the last two weeks and it was great.
