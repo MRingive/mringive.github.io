@@ -89,3 +89,33 @@ So here are some things I will focus on:
 - Be curious online. Whenever I find something interesting i often save it to my [Pocket](https://getpocket.com/). And that is one piece of the puzzle. But I also need to give myself permission to browser through the Pocket list and read the things I save.
 - Be curious at work. Ask questions. Sometimes I'm curious at work but at times I also put my head down and only work on what is in front of me. Being focused is good but I also want to stay curious as it will benefit me in the long run.
 - Set time aside for simple curiosity. I did this the last two weeks and it was great.
+
+# Create
+
+[seth-godin-practice]: https://www.goodreads.com/en/book/show/53479927-the-practice
+
+TODO: Over the last x time I have published x videos to YouTube. I like that. I love creating these and I can definitely see progress from my first videos to my latest ones. I still have a long way to go but I'm ready to start trying to make videos for someone other than myself.
+
+I sort of have my own mantra for my video creation process: _"I want to create something that makes me proud."_ Whenever I'm in despair or I feel pulled towards other motives (money, popularity), I come back to this. It has helped me a great deal and motivated me to continue learning and producing even though I know that most likely nobody will watch the x videos I have created.
+
+I have enjoyed creating videos for myself. But creative work is to be shared. I'll never make a change in the world if only I see my work.
+
+Seth Godin's book [The Practice: Shipping Creative Work][seth-godin-practice] is mainly what influenced this new view. In the book, Seth shows that sharing your work is the _generous_ thing to do. At least if the work seeks to make a change. If it is something only you could create. Something that improves the world in some small way. Then you should share it with generosity.
+
+It means I need to be clear about who it is for. It is never for everybody. And I need to be actively seek out these people, these communities, and ask them to consider my work. To help and to learn from the feedback. If the feedback is crickets, that’s a sign too. 
+
+I know one pitfall (of many) to pay special attention to. I must be careful I don’t just try to be popular. I have been in that pit before. Not that I have been popular. But I have tried and it drained all joy I had creating. I want to create and I want to share. But for the right reasons.
+
+## Moving forward
+
+I want to share the work I do. And that means finding my audience and creating for them. To do that I need to include a few new steps in my process. For each new video/blog post I will:
+
+- Have a clear idea _who_ it is for
+- Have a clear idea _what change_ I seek to create
+- Have a clear idea _how_ I will connect with people.
+
+Hopefully this will guide me and help me get feedback so I can learn to create for someone other than just myself. 
+
+> "The path forward is about curiosity, generosity, and connection. These are the three foundations of art." - Seth Godin in [The Practice][seth-godin-practice].
+
+Reading this made me even more excited about curiosity. It means I have addressed the two first foundations. Now the third:
